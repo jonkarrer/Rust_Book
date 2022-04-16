@@ -1,5 +1,1 @@
-# My Rust Book
-
-## Branches
-
-- Chapter One
+# Chapter Two
